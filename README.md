@@ -5,3 +5,6 @@ To develop an Android application that displays the image, name, and address of 
 Create a custom layout for each list item that includes an ImageView, TextView for the name, and another TextView for the address.
 Create a custom adapter to bind the data (student images, names, and addresses) to the ListView.
 Display the list in an Activity using the custom adapter.
+
+Read compleate details
+https://medium.com/@123sujanpr/develop-an-android-application-to-display-image-name-and-address-of-5-students-using-listview-047b8925a4df
